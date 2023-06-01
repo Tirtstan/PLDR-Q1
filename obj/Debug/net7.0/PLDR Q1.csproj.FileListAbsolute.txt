@@ -1,0 +1,15 @@
+C:\--Files and shit--\Coding Stuff\Visual Studio Code\C#\PLDR Q1\bin\Debug\net7.0\PLDR Q1.exe
+C:\--Files and shit--\Coding Stuff\Visual Studio Code\C#\PLDR Q1\bin\Debug\net7.0\PLDR Q1.deps.json
+C:\--Files and shit--\Coding Stuff\Visual Studio Code\C#\PLDR Q1\bin\Debug\net7.0\PLDR Q1.runtimeconfig.json
+C:\--Files and shit--\Coding Stuff\Visual Studio Code\C#\PLDR Q1\bin\Debug\net7.0\PLDR Q1.dll
+C:\--Files and shit--\Coding Stuff\Visual Studio Code\C#\PLDR Q1\bin\Debug\net7.0\PLDR Q1.pdb
+C:\--Files and shit--\Coding Stuff\Visual Studio Code\C#\PLDR Q1\obj\Debug\net7.0\PLDR Q1.csproj.AssemblyReference.cache
+C:\--Files and shit--\Coding Stuff\Visual Studio Code\C#\PLDR Q1\obj\Debug\net7.0\PLDR Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\--Files and shit--\Coding Stuff\Visual Studio Code\C#\PLDR Q1\obj\Debug\net7.0\PLDR Q1.AssemblyInfoInputs.cache
+C:\--Files and shit--\Coding Stuff\Visual Studio Code\C#\PLDR Q1\obj\Debug\net7.0\PLDR Q1.AssemblyInfo.cs
+C:\--Files and shit--\Coding Stuff\Visual Studio Code\C#\PLDR Q1\obj\Debug\net7.0\PLDR Q1.csproj.CoreCompileInputs.cache
+C:\--Files and shit--\Coding Stuff\Visual Studio Code\C#\PLDR Q1\obj\Debug\net7.0\PLDR Q1.dll
+C:\--Files and shit--\Coding Stuff\Visual Studio Code\C#\PLDR Q1\obj\Debug\net7.0\refint\PLDR Q1.dll
+C:\--Files and shit--\Coding Stuff\Visual Studio Code\C#\PLDR Q1\obj\Debug\net7.0\PLDR Q1.pdb
+C:\--Files and shit--\Coding Stuff\Visual Studio Code\C#\PLDR Q1\obj\Debug\net7.0\PLDR Q1.genruntimeconfig.cache
+C:\--Files and shit--\Coding Stuff\Visual Studio Code\C#\PLDR Q1\obj\Debug\net7.0\ref\PLDR Q1.dll
