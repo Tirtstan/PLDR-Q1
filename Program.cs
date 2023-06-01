@@ -61,15 +61,14 @@ public class Question1
         for (int i = 0; i < studentNames.Length; i++)
         {
             string category;
-            int mark = studentMarks[i];
-            if (mark >= 75)
+            if (studentMarks[i] >= 75)
                 category = "Distinction";
-            else if (mark < 50)
+            else if (studentMarks[i] < 50)
                 category = "Fail";
             else
                 category = "Pass";
 
-            Console.WriteLine($"{studentNames[i]}\t{mark}\t\t{category}");
+            Console.WriteLine($"{studentNames[i]}\t{studentMarks[i]}\t\t{category}");
         }
 
         int total = 0;
