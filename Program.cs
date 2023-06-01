@@ -69,7 +69,7 @@ public class Question1
             else
                 category = "Pass";
 
-            Console.WriteLine($"{studentNames[i]}\t{studentMarks[i]}\t\t{category}");
+            Console.WriteLine($"{studentNames[i]}\t{mark}\t\t{category}");
         }
 
         int total = 0;
